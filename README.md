@@ -1,3 +1,14 @@
+# Website Description:
+
+This was a small project as a task at IEEE Web Development Course for spring 2024 , you can find the certificate at my linkedin account (https://www.linkedin.com/in/seif-dakroury-155747267/)
+
+The user should enter a valid longitude and lattitude and the weather app tells him the weather at that location using API.
+
+This website was designed using javascript , react.js
+
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
